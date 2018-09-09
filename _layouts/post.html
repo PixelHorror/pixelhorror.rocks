@@ -1,5 +1,16 @@
 ---
 layout: default
 ---
+<article class="w-50-l w-90 center">
+  <a href="/">
+    <img src="/assets/images/site/logo.svg" alt="pixelhorror's logo" class="db mt2 mt3-l mb3-l">
+  </a>
 
-{{ content }}
+  <h1 class="georgia f1-l f2 f-headline lh-solid ma0 pt3">{{ page.title }}</h1>
+  <h2 class="georgia i f3-l f3">{{ page.subtitle }}</h2>
+  <p class="georgia i f5">{{ page.date | date_to_string }}</p>
+
+  <div class="f3-l f4 lh-copy">
+    {{ content }}
+  </div>
+</article>

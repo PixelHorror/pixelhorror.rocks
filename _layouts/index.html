@@ -1,13 +1,33 @@
 ---
 layout: default
 ---
+<section class="w-50-l w-90 center f3-l f4 lh-copy">
+  <article>
+    <a href="/">
+      <img src="/assets/images/site/logo.svg" alt="pixelhorror's logo" class="db mt3">
+    </a>
 
-{{ content}}
+    {{ content}}
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+    <div class="mb3">
+      <h2 class="georgia f3 lh-solid ma0 pb1">Posts</h2>
+      <ul class="mv2 pl2">
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}" class="link dim near-black underline">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div>
+      <h2 class="georgia f3 lh-solid pb1">Contacto</h2>
+
+      <address>
+        <a class="link dim near-black underline mr2" href="mailto:pixelhorror.blog@gmail.com">Mail</a>
+        <a class="link dim near-black underline" href="https://www.twitter.com/pixelhorror">Twitter</a>
+      </address>
+      </ul>
+    </div>
+  </article>
+</section>

@@ -2,10 +2,18 @@
 <html lang="es-CO">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     {% include meta.html %}
+    {% include common_css.html %}
+    <link rel="shortcut icon" href="/assets/images/site/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
     <title>{{ page.title }} | {{ site.title }}</title>
   </head>
   <body>
     {{ content }}
+
+    <footer class="pv4 ph3 ph5-m ph6-l mid-gray">
+      <p class="f4 tc mw-100">2018. Bogotá, Colombia</p>
+    </footer>
   </body>
 </html>
