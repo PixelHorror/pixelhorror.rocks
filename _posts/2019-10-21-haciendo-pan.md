@@ -8,11 +8,12 @@ image: "http://www.pixelhorror.rocks/assets/images/posts/bread/bread_card.png"
 image_alt: "Haciendo Pan"
 permalink: haciendo-pan/
 tags: personal
+meta_description: Aprendiendo a hacer pan.
 ---
 
 Llevo alrededor de siete meses haciendo pan.
 
-<img src="/assets/images/posts/bread/bread_1.jpg" class="center db mv3">
+<img src="/assets/images/posts/bread/bread_1.jpg" class="center db mv3" alt="Pan tipo Sourdough (masa madre/ácida)">
 
 No es un secreto para las personas que me conocen. Algo que comenzó como un pasatiempo ha tomado un lugar importante en mi vida, pues no hay mejor manera de conocerse que estando solo, haciendo algo lento que demanda paciencia, atención y de igual forma desapego.
 
@@ -22,7 +23,7 @@ Amo el pan, lo amo tanto que hace años pensaba que podía vivir sólo con gaseo
 
 “Bread makes you fat??” - Dice Scott Pilgrim en su famosa frase y sí, lo puede hacer. Pero en mi caso el conocimiento de prepararlo me trajo un muchas cosas más.
 
-<img src="/assets/images/posts/bread/scott.png" class="center db mv3">
+<img src="/assets/images/posts/bread/scott.png" class="center db mv3" alt="Panel del comic Scott Pilgrim, donde uno de sus personajes referencia lo mucho que puede engordar la ingesta excesiva de pan.">
 
 Soy de esos que se defiende en la cocina y está dispuesto a experimentar con recetas una que otra vez. Veo ciertas comidas con recelo, casi como artes oscuras, técnicas de difícil adquisición que quizás me exijan más de lo que puedo dar. Mi primera aproximación con el pan fue así.
 
@@ -54,4 +55,4 @@ Por eso, vayan, hagan cosas diferentes a lo que hacen todos los días. Aprendan 
 
 Y obviamente, si quieren aprender a hacer pan mi conocimiento está a la orden para ustedes.
 
-<img src="/assets/images/posts/bread/bread_footer.png" class="center db">
+<img src="/assets/images/posts/bread/bread_footer.png" class="center db" alt="un pan hecho en pixel art.">
