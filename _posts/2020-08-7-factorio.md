@@ -2,9 +2,9 @@
 layout: post
 title:  "Factorio"
 subtitle: "Welcome my son, welcome to the machine."
-excerpt: "Hablemos de Factorio y por qué es especial."
+excerpt: "Una obsesión en forma de Fábrica."
 date:   2020-08-12
-image: "/assets/images/factorio/factorio_card.jpg"
+image: "/assets/images/posts/factorio/factorio_card.jpg"
 image_alt: "Factorio"
 permalink: factorio/
 tags: personal, videojuegos
@@ -20,7 +20,7 @@ Factorio, un juego de construcción, automatización y logística se convirtió 
 
 _“If you wish to make an apple pie from scratch, you must first invent the universe.”_
 
-Factorio es metafóricamente una cebolla de complejidad, donde cada capa enseña algo y estas dependen una de la otra. Cada triunfo es marcado por una multitud de nuevos problemas por resolver. Esto, es literalmente _crack_ para alguien que se gana el pan de cada día resolviendo problemas, _o sea yo_.
+Factorio es, metafóricamente, una cebolla de complejidad. Cada capa enseña algo y estas dependen una de la otra. Cada triunfo es marcado por una multitud de nuevos problemas por resolver. Literalmente _crack_ para alguien que se gana el pan de cada día resolviendo problemas, _o sea yo_.
 
 Ahora mi misión impulsada por una extraña mezcla de reto, obsesión y testarudez era construir ese cohete y escapar. Hablemos de la metafórica cebolla entonces, vamos a la primer capa.
 
@@ -30,25 +30,28 @@ Todo comienza con nuestro pequeño ingeniero, quién tiene bolsillos cuánticos 
 
 El juego cuenta con pocos recursos base: piedra, carbón, acero, cobre, petroleo y uranio. Casi todos pueden ser extraidos a mano, pero se imaginarán, es un proceso tedioso y lento. Ahí entra la tecnología que el juego ofrece:
 
-¿Necesitamos carbón? Entonces podemos una máquina que lo extraiga. ¡Problema resuelto! No, sin energía esto no hará nada.
+¿Necesitamos carbón? Entonces podemos construir una máquina que lo extraiga. ¡Problema resuelto!
 
-<img src="/assets/images/posts/factorio/coal.jpg" class="center db mv3" alt="El ingeniero y su máquina de carbón">
+No, sin energía esto no hará nada.
+
+<img src="/assets/images/posts/factorio/coal.jpg" class="center db mv3" alt="El ingeniero y su máquina extractora de carbón">
 
 
-Claro, podríamos alimentar manualmente la máquina con carbón, pero, esto implicaría estar atentos cada vez que esta agota su combustible. Es hora usar una combinación de los elementos más importantes del juego: los insersores (_Inserters_, la traducción no es mi fuerte) y las bandas transportadoras.
+Claro, podríamos alimentar manualmente la máquina con carbón, algo que implicaría estar atentos cada vez que esta agota su combustible. Es hora de usar una combinación de los elementos más importantes del juego: los insersores (_Inserters_, la traducción no es mi fuerte) y las bandas transportadoras.
 
 <img src="/assets/images/posts/factorio/belt.jpg" class="center db mv3" alt="Inserter/Belt">
 
 
 ### Factorio es un juego de automatización
 
-Ambos elementos tienen funciones muy puntuales: uno mueve objetos en un rango limitado del Punto A, al Punto B. El segundo también, pero sin combustible y posibilidad de agarrar algo, lo cuál es un punto clave.
+Ambos elementos tienen funciones muy puntuales: uno mueve objetos en un rango limitado del Punto A al Punto B. El segundo también, pero sin combustible y posibilidad de agarrar algo, lo cual es un punto clave.
 
 Entonces, si combinamos este conocimiento, podemos llegar a esa panacea de extracción carbonifera automática.
 
 ¡Ajá!
 
 <img src="/assets/images/posts/factorio/coal_auto.jpg" class="center db mv3" alt="Auto Coal Mining">
+_Un brazo carga el carbón que la misma máquina extrae, otro lo mete en la cajita_
 
 Ya tenemos energía, sucia energía que durara tanto como la vena lo permita. ¿Pero, qué hacemos con esta energía?
 
@@ -59,16 +62,14 @@ Quizás es momento de llevar nuestros conocimientos de extracción de carbón a 
 
 ¿Ya les duele un poco la cabeza?
 
-Con un poco de creatividad, y muchos intentos no tan eficientes tendremos acero convertido en placas. Si recuerdan, no es el único mineral que podemos extraer. Esto que acabamos de aprender puede ser llevado a los demás minerales, bueno, casi.
-
-Recuerden que hablé de otros recursos, recursos que tenemos que transformar, transportar y lidiar con todo lo que esto implica. Extraeremos crudo para volverlo plástico, o uranio, para refinarlo a uranio-235 o 238.
+Con un poco de creatividad, y muchos intentos no tan eficientes tendremos acero convertido en placas. Si recuerdan, no es el único mineral que podemos extraer. Esto que acabamos de aprender puede ser llevado a los demás minerales... bueno, casi. Recuerden que hablé de otros recursos, recursos que tenemos que transformar, transportar y lidiar con todo lo que esto implica. Extraeremos crudo para volverlo plástico, o uranio, para refinarlo a uranio-235 o 238, gases, agua... La lista es larga.
 
 Sí... la complejidad no se detiene.
 
 <img src="/assets/images/posts/factorio/semiauto_iron.jpg" class="center db mv3" alt="Mineria Básica Acero">
 _Una solución no muy óptima, pero peor es nada_
 
-¿Para qué todo esto? Simple, ¿creyeron que nuestro personaje tiene un plano del cohete en la cabeza? No, es necesario investigar nuevas tecnologías. Cosa que logramos construyendo unas máquinas especiales, que utilizan energía eléctrica, no carbón.
+¿Para qué todo esto? Simple, ¿creyeron que nuestro personaje tiene un plano del cohete en la cabeza? No, es necesario investigar nuevas tecnologías. Algo que logramos construyendo unas máquinas especiales, que utilizan energía eléctrica, no carbón.
 
 Otra capa más en la cebolla. Es necesario aprender a generar poder eléctrico eficientemente, y escalarlo según sea necesario.
 
@@ -78,17 +79,17 @@ Luego de tener una red de suministro eléctrico, podemos pensar en cosas más gr
 
 <img src="/assets/images/posts/factorio/lab.gif" class="center db mv3" alt="Laboratorio">
 
-Al construir los laboratorios y alimentarles unas botellitas de colores que -- adivinaron -- tenemos que construir, desbloquearemos poco a poco nuevas estructuras que harán más fácil nuestra vida. La primer tecnología a que accedemos es la Automatización, verdadera automatización.
+Al construir los laboratorios y alimentarles unas botellitas de colores que -- adivinaron -- tenemos que manufacturar, desbloquearemos poco a poco nuevas estructuras que harán más fácil nuestra vida. La primer tecnología a que accedemos es la _Automatización_, verdadera automatización.
 
 <img src="/assets/images/posts/factorio/tree.jpg" class="center db mv3" alt="Tech Tree">
 
 Con estos edificios nos quitamos la carga de producir cualquier cosa, mientras la máquina reciba lo que necesite, esta va a trabajar sin cansancio hasta que se agoten sus recursos. ¿Empiezan a ver como todo se empieza a unir?
 
-Con esto, no tenemos que hacer las "botellitas" para los laboratorios, ya podemos delegar esa tarea a nuestra maquinaría. Este es el núcleo de Factorio: automatizar, todo.
+Con esto no tenemos que hacer las "botellitas" para los laboratorios, ya podemos delegar esa tarea a nuestra maquinaría. Este es el núcleo de Factorio: automatizar, todo.
 
 Así, nuestra fábrica poco a poco se convierte una maquina (ojalá) bien aceitada que transforma su paisaje, llenándolo de polución, matando el verde que le rodea. ¿Recuerdan los no-amigables nativos? seguro te harán una visita pronto y no será para darte la bienvenida con los brazos (¿pinzas?) abiertas... o bueno, sí.
 
-Los "biters", son insectos que te recordarán a la adaptación de Verhoeven de _Starship Troopers_. Estos odian la polución y tus intenciones colonizadoras. Es hora de construir defensas si quieres sobrevivir.
+Los "biters", son insectos gigantes que te recordarán a la adaptación de Verhoeven de _Starship Troopers_. Estos odian la polución y tus intenciones colonizadoras. Es hora de construir defensas si quieres sobrevivir esta cuestionable empresa.
 
 <img src="/assets/images/posts/factorio/biters_turrets.png" class="center db mv3" alt="Bitter">
 
@@ -98,19 +99,19 @@ Es fácil caer en un agujero de optimizar, construir mejores versiones de nuestr
 
 _crack para ingenier@s_, especialmente y generalizando.
 
-Recordemos que la idea es escapar este planeta. ¿Qué me iba a costar?
+Volvamos a la idea inicial, la cual era escapar este planeta. ¿Qué me iba a costar?
 
 _Todo_
 
 ### La Fábrica debe crecer
 
-Factorio ha estado en mi librería de Steam por varios años, solo hasta ahora decidí aprenderlo a jugar. Este tiene una curva de aprendizaje muy diferente a la de un juego. Si quieren un paralelo más técnico: es como aprender un lenguaje de programación, librería o framework. Al comienzo hacemos todo mal, entendemos todo al revés y luego de sacrificar varios millones de neuronas y litros de café a Dioses innombrables, verevemos la luz.
+Factorio ha estado en mi librería de Steam por varios años, solo hasta ahora decidí aprenderlo a jugar. Este tiene una curva de aprendizaje muy diferente a la de un juego. Si quieren un paralelo más técnico: es como aprender un lenguaje de programación, librería o framework. Al comienzo hacemos todo mal, entendemos todo al revés y luego de sacrificar varios millones de neuronas y litros de café a Dioses innombrables, veremos la luz.
 
-Las analogías no paran, Factorio ES programación visual: Un flujo de recursos se transforma en otro por medio de una máquina, para que este pueda ser consumido por otra máquina.
+Las analogías no paran, Factorio ES programación visual: un flujo de recursos se transforma en otro por medio de una máquina, para que este pueda ser consumido por otra máquina.
 
-Dicho esto: los recursos son datos, crudos o procesados, las máquinas son funciones. Cuando vi esto, se me explotaron muchas cosas de mi cabeza, especialmente porque podía traer modelos de pensamiento que he usado por años a un juego de bichitos y líneas de manufactura. Gracias a lo rápido que vemos si una idea funciona o no, podemos iterar, o probar cosas locas que puede no sean la mejor idea. Igual que cuando se programa.
+Dicho esto: los recursos son *datos*, crudos o procesados, las máquinas son *funciones*. Cuando vi esto, se me explotaron muchas cosas de mi cabeza, especialmente porque podía traer modelos de pensamiento que he usado por años a un juego de bichitos y líneas de manufactura. Gracias a lo rápido que vemos si una idea funciona o no, podemos iterar o probar cosas locas que puede no sean la mejor idea. Igual que cuando se programa.
 
-Pero no se asusten. Si no saben nada de código no importa. Esta es la forma en que yo interioricé como funciona el juego. Todos tenemos un vocabulario para expresar el mundo, y entenderlo, en mi caso, la programación fue la mejor analogía.
+Pero no se asusten si no saben nada de código. No importa. Esta es la forma en que yo interioricé como funciona el juego. Todos tenemos un vocabulario para expresar el mundo, y entenderlo, en mi caso, la programación fue la mejor analogía.
 
 ### El cohete y la huída de Hanoi
 
@@ -118,7 +119,7 @@ Me tomó 77 horas según Steam para llegar a la fábrica que me sacaría de ese 
 
 <img src="/assets/images/posts/factorio/factory.jpg" class="center db mv3" alt="Bitter">
 
-La progresión del juego enfrenta al jugador a la inevitable realidad de que somos el "malo": estamos contaminando y explotando un planeta para nuestro propio bien. La contaminación se puede reducir, pero al final es imposible no molestar a los nativos. Por esto, en mis últimas horas de juego, mientras cargaba el cohete con combustible me sentí como EEUU huyendo de Hanoi: Mientras al fondo explotaba mi fábrica yo me subía al cohete para ver todo ser devorado por el equivalente a un _Zerg rush_. No importa, lo había logrado.
+La progresión del juego enfrenta al jugador a la inevitable realidad de que somos el "malo": estamos contaminando y explotando un planeta para nuestro propio bien. La contaminación se puede reducir, pero al final es imposible no molestar a los nativos. En mis últimos minutos de juego me sentí como EEUU huyendo de Hanoi: mientras mi fábrica era devorada por el equivalente a un _Zerg rush_ yo iba rumbo al infinito en mi cohete. Ya nada importaba, lo había logrado, y en mi caso, si era una victoria.
 
 <img src="/assets/images/posts/factorio/rocket.jpg" class="center db mv3" alt="Bitter">
 
